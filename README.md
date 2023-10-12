@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HK-Sepuri
-- 👀 I’m new to Linux and programing. Interested in learning Linux ,Python ,ML,DS and AI etc, i am still not sure which one i should focus on.
-- 🌱 I’m currently learning math as after few weeks of web browsing/youtube and installing various linux distro i found math is basic to start.
+- 👀 I’m new to Linux and programing. Interested in learning ML,DL and AI
+- 🌱 I’m currently learning ML and some programing in python
 - 💞️ I’m looking to collaborate on learning , if there are any for people learning from zero.
 - 📫 How to reach me: GitHub for now.
 
