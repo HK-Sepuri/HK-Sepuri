@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HK-Sepuri
-- 👀 I’m new to Linux and programing. Interested in learning ML,DL and AI
-- 🌱 I’m currently learning DL
+- 👀 I’m new to Linux and programing.
+- 🌱 I’m currently learning PyTorch
 - 💻 Tinkering with Arch + Hyprland
 - 💞️ I’m looking to collaborate on learning and some begginer open source projects 
 - 📫 Discord: lazybutlearning_44405
