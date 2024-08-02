@@ -20,8 +20,6 @@
   <img width="12" />
 </div>
 
-
-- Thank You!
 ***
 
 <!---
