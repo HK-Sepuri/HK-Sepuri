@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @HK-Sepuri
-- 👀 I’m new to Linux and programing.
-- 🌱 I’m currently learning PyTorch.
-- 💻 Tinkering with Arch + Hyprland
-- 💞️ I’m looking to collaborate on learning and some begginer open source projects
+- 👋 **Hi, I’m @HK-Sepuri**
+- 👀 ** New to Linux & Programming:** Embracing the journey of code!
+- 🌱 ** Learning [PyTorch](https://pytorch.org/):** Exploring the world of Deep Learning. .
+- 💻 ** Tinkering with [Arch](https://archlinux.org/) + [Hyprland](https://hyprland.org/):** Setting up my perfect development environment. ⚙️
+- 💞️ Open to Collaboration: Let's learn and build together!
 - 📫 Discord: [lazybutlearning_44405](https://discord.gg/lazybutlearning_44405)
 - 🛠 Building Skills: My Tech Adventure
 
