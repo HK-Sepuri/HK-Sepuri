@@ -3,7 +3,7 @@
 - 🌱 Learning [PyTorch](https://pytorch.org/): Exploring the world of Deep Learning. .
 - 💻 Tinkering with [Arch](https://archlinux.org/) + [Hyprland](https://hyprland.org/): Setting up my perfect development environment. ⚙️
 - 💞️ Open to Collaboration: Let's learn and build together!
-- 📫 Discord: [lazybutlearning_44405](https://discord.gg/lazybutlearning_44405)
+- 📫 Discord: [LazyButLearning](https://discord.gg/lazybutlearning_44405)
 - 🛠 Building Skills: My Tech Adventure
 
 
