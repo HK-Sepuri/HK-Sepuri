@@ -1,4 +1,4 @@
-- 👋 **Hi, I’m @HK-Sepuri**
+- 👋 **Hi, I’m @LazyButLearning**
 - 👀 New to Linux & Programming: Embracing the journey of code!
 - 💻 Tinkering with [Arch](https://archlinux.org/) + [Hyprland](https://hyprland.org/): Setting up my perfect development environment. ⚙️
 - 💞️ Open to Collaboration: Let's learn and build together!
